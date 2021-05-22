@@ -1,0 +1,19 @@
+{
+  "name": "duckduckgo-search",
+  "version": "1.0.0",
+  "description": "cy.handsOn('forms-part-2')",
+  "scripts": {
+    "test": "cypress run --reporter nyan",
+    "cy:open": "cypress open"
+  },
+  "keywords": [
+    "cypress.io",
+    "duckduckgo",
+    "testing"
+  ],
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev)",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^7.3.0"
+  }
+}
